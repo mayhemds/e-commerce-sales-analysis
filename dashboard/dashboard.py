@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the Data set
-df = pd.read_excel("../../Datasets/real_world_datasets/ecommerce_sales.xlsx")
+df = pd.read_excel("../data/ecommerce_sales.xlsx")
 
 
 # Convert Date Columns
