@@ -49,7 +49,7 @@ streamlit run dashboard/dashboard.py
 ```
 
 ## 🌎 Live Dashboard
-🔗 **View the interactive dashboard:** [Streamlit Deployment Link](https://yourname-streamlitapp.streamlit.app)
+🔗 **View the interactive dashboard:** [Streamlit Deployment Link](https://e-commerce-sales-analysis-ngbixjgsa3wcbm8rw3bgor.streamlit.app/)
 
 ## 📝 License
 This project is provided for **viewing purposes only**. You **may not** modify, distribute, sublicense, or sell any part of this project. See the [LICENSE](LICENSE) file for details.
